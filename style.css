@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Rubik Glitch', cursive;
+}
+.header_div{
+    font-family: 'Rubik Wet Paint', cursive;
+    background-color: beige;
+    color: brown;
+    box-shadow: 5px 5px 10px blue;
+}
+.header_div p{
+    color: black;
+    letter-spacing: 2px;
+ font-size: 12px;
+
+}
+.main_div button {
+    margin-top: 10px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-break: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    background-color: aliceblue;
+
+}
